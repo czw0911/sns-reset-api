@@ -1,0 +1,25 @@
+{
+	"max_idle_conn":20,
+	"max_open_conn":1000,
+	"table_hash_num":8,
+	"db_list_master": [	
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_0?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_1?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_2?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_3?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_4?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_5?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_6?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_7?charset=utf8mb4"}
+		],
+	"db_list_salve": [	
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_0?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_1?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_2?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_3?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_4?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_5?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_6?charset=utf8mb4"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_user_7?charset=utf8mb4"}
+		]
+}

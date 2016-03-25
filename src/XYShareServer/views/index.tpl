@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="static/css/css.css">
+	<script type="text/javascript" src="static/js/main.js"></script> 
+	<title>乡妹在乡音等你，快来加入吧...</title>
+</head>
+<body class="body1">
+	<dl class="header">
+		<dt>
+			<h5>乡妹</h5>
+			<p>我在乡音，快来加入吧！</p>
+			<img src="static/img/header1tx.png">
+		</dt>
+		<dd>
+			<a href="javascript:openApp()">进入乡音</a>
+		</dd>
+	</dl>
+	<div class="banner"><img src="static/img/banner1.png"></div>
+	<h4>
+		<a href="javascript:openApp()">立即下载</a>
+	</h4>
+	<h2>同城老乡 共叙乡情</h2>
+	<h3>首创乡音鉴定机制，方言就是你家乡的鉴证</h3>
+	<h6><img src="static/img/jieshao1.png"></h6>
+</body>
+{{template "footer.tpl" .}}

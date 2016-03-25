@@ -1,0 +1,526 @@
+2015/07/12 13:07:27 [app.go:103] [I] http server Running on :8880
+2015/07/12 13:08:04 [router.go:845] [D] | GET        | /v1/common/get_region_list               | 58.046269ms      | match      | /v1/common/get_region_list               | 
+2015/07/12 13:08:39 [app.go:103] [I] http server Running on :8880
+2015/07/12 13:09:54 [app.go:103] [I] http server Running on :8880
+2015/07/12 13:10:25 [app.go:103] [I] http server Running on :8880
+2015/07/12 13:11:04 [app.go:103] [I] http server Running on :8880
+2015/07/12 13:14:53 [app.go:103] [I] http server Running on :8880
+2015/07/12 13:14:53 [asm_amd64.s:2232] [C] ListenAndServe: %!(EXTRA *net.OpError=listen tcp :8880: bind: address already in use)
+2015/07/12 13:15:33 [app.go:103] [I] http server Running on :8880
+2015/07/12 13:42:31 [app.go:103] [I] http server Running on :8880
+2015/07/12 13:42:31 [asm_amd64.s:2232] [C] ListenAndServe: %!(EXTRA *net.OpError=listen tcp :8880: bind: address already in use)
+2015/07/12 13:43:02 [app.go:103] [I] http server Running on :8880
+2015/07/12 13:43:26 [router.go:845] [D] | GET        | /v1/common/get_region_list               | 51.138173ms      | match      | /v1/common/get_region_list               | 
+2015/07/14 10:10:33 [app.go:103] [I] http server Running on :8880
+2015/07/14 10:11:47 [app.go:103] [I] http server Running on :8880
+2015/07/14 10:12:59 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 10.331036ms      | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:13:25 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 3.851246ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:13:46 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 5.055211ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:14:15 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 118.043µs        | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:14:51 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 86.269µs         | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:18:58 [app.go:103] [I] http server Running on :8880
+2015/07/14 10:19:06 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 257.692µs        | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:19:08 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 5.255826ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:19:24 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 4.630516ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:19:25 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 6.157862ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:19:36 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 2.515162ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:20:01 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 6.387094ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:20:10 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 3.044827ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:20:36 [app.go:103] [I] http server Running on :8880
+2015/07/14 10:21:19 [app.go:103] [I] http server Running on :8880
+2015/07/14 10:21:46 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 5.557088ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:24:16 [app.go:103] [I] http server Running on :8880
+2015/07/14 10:24:55 [app.go:103] [I] http server Running on :8880
+2015/07/14 10:25:05 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 3.482186ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:28:04 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 2.8083ms         | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:32:13 [app.go:103] [I] http server Running on :8880
+2015/07/14 10:32:46 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 3.722974ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:34:34 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 205.225µs        | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:36:19 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 128.073µs        | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:52:11 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 3.341304ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:52:38 [app.go:103] [I] http server Running on :8880
+2015/07/14 10:52:43 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 5.304032ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:53:11 [app.go:103] [I] http server Running on :8880
+2015/07/14 10:53:20 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 1.440517ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 10:56:54 [app.go:103] [I] http server Running on :8880
+2015/07/14 11:02:28 [app.go:103] [I] http server Running on :8880
+2015/07/14 15:24:26 [app.go:103] [I] http server Running on :8880
+2015/07/14 15:24:37 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 3.708201ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:25:03 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 4.838538ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:25:08 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 165.969µs        | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:25:26 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 114.49µs         | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:26:28 [app.go:103] [I] http server Running on :8880
+2015/07/14 15:26:36 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 965.8µs          | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:26:40 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 2.852656ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:27:29 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 92.871µs         | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:27:32 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 2.898116ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:28:33 [app.go:103] [I] http server Running on :8880
+2015/07/14 15:28:40 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 1.142002ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:30:17 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 5.57136ms        | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:31:17 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 4.367263ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:33:39 [app.go:103] [I] http server Running on :8880
+2015/07/14 15:33:44 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 5.519188ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:51:57 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 192.618µs        | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:55:00 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 129.568µs        | match      | /v1/common/get_job_list                  | 
+2015/07/14 15:57:11 [app.go:103] [I] http server Running on :8880
+2015/07/14 15:57:17 [router.go:845] [D] | POST       | /v1/common/get_job_list                  | 288.103µs        | match      | /v1/common/get_job_list                  | 
+2015/07/14 16:00:05 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 5.046678ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 16:01:28 [app.go:103] [I] http server Running on :8880
+2015/07/14 16:01:34 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 5.224878ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 16:02:02 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 5.438451ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 16:03:00 [app.go:103] [I] http server Running on :8880
+2015/07/14 16:03:04 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 2.860388ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 16:06:49 [app.go:103] [I] http server Running on :8880
+2015/07/14 16:07:00 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 3.563046ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 16:07:01 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 4.151036ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 16:07:02 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 7.993848ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 16:07:13 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 3.91111ms        | match      | /v1/common/get_job_list                  | 
+2015/07/14 16:07:40 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 6.270448ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 16:08:14 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 3.576604ms       | match      | /v1/common/get_job_list                  | 
+2015/07/14 17:38:12 [app.go:103] [I] http server Running on :8880
+2015/07/14 17:38:33 [app.go:103] [I] http server Running on :8880
+2015/07/14 17:39:17 [app.go:103] [I] http server Running on :8880
+2015/07/14 17:39:51 [router.go:845] [D] | GET        | /v1/common/get_job_list                  | 23.903293ms      | match      | /v1/common/get_job_list                  | 
+2015/07/14 17:40:02 [router.go:845] [D] | GET        | /v1/user/login                           | 308.683µs        | match      | /v1/user/login                           | 
+2015/07/14 17:40:11 [router.go:845] [D] | POST       | /v1/user/login                           | 485.207µs        | match      | /v1/user/login                           | 
+2015/07/14 17:42:18 [login.go:99] [E] dial tcp 127.0.0.1:6379: connection refused 
+2015/07/14 17:42:18 [router.go:845] [D] | POST       | /v1/user/login                           | 16.924231ms      | match      | /v1/user/login                           | 
+2015/07/14 17:43:56 [router.go:845] [D] | POST       | /v1/user/login                           | 5.869846ms       | match      | /v1/user/login                           | 
+2015/07/15 11:41:01 [app.go:103] [I] http server Running on :8880
+2015/07/15 11:42:13 [app.go:103] [I] http server Running on :8880
+2015/07/15 11:42:54 [router.go:845] [D] | POST       | /v1/user/login                           | 15.069964ms      | match      | /v1/user/login                           | 
+2015/07/15 11:44:14 [app.go:103] [I] http server Running on :8880
+2015/07/15 11:44:34 [router.go:845] [D] | POST       | /v1/user/login                           | 3.314934ms       | match      | /v1/user/login                           | 
+2015/07/15 11:45:26 [app.go:103] [I] http server Running on :8880
+2015/07/15 11:45:33 [router.go:845] [D] | POST       | /v1/user/login                           | 4.902311ms       | match      | /v1/user/login                           | 
+2015/07/15 11:45:57 [app.go:103] [I] http server Running on :8880
+2015/07/15 11:47:02 [app.go:103] [I] http server Running on :8880
+2015/07/15 11:49:05 [app.go:103] [I] http server Running on :8880
+2015/07/15 11:55:53 [app.go:103] [I] http server Running on :8880
+2015/07/15 12:09:59 [app.go:103] [I] http server Running on :8880
+2015/07/15 14:04:52 [app.go:103] [I] http server Running on :8880
+2015/07/15 14:05:38 [router.go:845] [D] | POST       | /v1/user/login                           | 291.708µs        | match      | /v1/user/login                           | 
+2015/07/15 14:07:31 [router.go:845] [D] | POST       | /v1/user/login                           | 152.771µs        | match      | /v1/user/login                           | 
+2015/07/15 14:07:43 [app.go:103] [I] http server Running on :8880
+2015/07/15 14:07:46 [router.go:845] [D] | POST       | /v1/user/login                           | 1.020932ms       | match      | /v1/user/login                           | 
+2015/07/15 14:08:34 [app.go:103] [I] http server Running on :8880
+2015/07/15 14:08:44 [router.go:845] [D] | POST       | /v1/user/login                           | 664.319µs        | match      | /v1/user/login                           | 
+2015/07/15 14:09:55 [app.go:103] [I] http server Running on :8880
+2015/07/15 14:10:02 [router.go:845] [D] | POST       | /v1/user/login                           | 328.088µs        | match      | /v1/user/login                           | 
+2015/07/15 14:13:21 [app.go:103] [I] http server Running on :8880
+2015/07/15 14:13:26 [router.go:845] [D] | POST       | /v1/user/login                           | 3.86378ms        | match      | /v1/user/login                           | 
+2015/07/15 15:01:46 [app.go:103] [I] http server Running on :8880
+2015/07/17 11:00:29 [app.go:103] [I] http server Running on :8880
+2015/07/17 11:01:13 [router.go:845] [D] | GET        | /apns                                    | 38.865µs         | notmatch   | 
+2015/07/17 11:01:22 [router.go:845] [D] | GET        | /v1/user/apns                            | 90.052µs         | match      | /v1/user/apns                            | 
+2015/07/17 11:02:26 [router.go:845] [D] | GET        | /v1/user/apns                            | 56.06µs          | match      | /v1/user/apns                            | 
+2015/07/17 11:02:41 [router.go:845] [D] | GET        | /v1/user/apns                            | 59.689µs         | match      | /v1/user/apns                            | 
+2015/07/17 11:08:52 [app.go:103] [I] http server Running on :8880
+2015/07/17 11:08:59 [router.go:845] [D] | GET        | /v1/user/apns                            | 95.32µs          | match      | /v1/user/apns                            | 
+2015/07/17 11:27:37 [app.go:103] [I] http server Running on :8880
+2015/07/17 11:27:48 [router.go:845] [D] | GET        | /v1/user/apns                            | 70.964µs         | match      | /v1/user/apns                            | 
+2015/07/17 11:28:20 [router.go:845] [D] | GET        | /v1/user/apns                            | 107.324µs        | match      | /v1/user/apns                            | 
+2015/07/17 11:29:17 [app.go:103] [I] http server Running on :8880
+2015/07/17 11:29:23 [router.go:845] [D] | GET        | /v1/user/apns                            | 843.557µs        | match      | /v1/user/apns                            | 
+2015/07/17 11:30:00 [router.go:845] [D] | GET        | /v1/user/apns                            | 55.093µs         | match      | /v1/user/apns                            | 
+2015/07/17 11:30:21 [app.go:103] [I] http server Running on :8880
+2015/07/17 11:30:25 [router.go:845] [D] | GET        | /v1/user/apns                            | 68.154µs         | match      | /v1/user/apns                            | 
+2015/07/17 11:30:57 [router.go:845] [D] | GET        | /v1/user/apns                            | 54.225µs         | match      | /v1/user/apns                            | 
+2015/07/17 11:31:41 [app.go:103] [I] http server Running on :8880
+2015/07/17 11:31:45 [app.go:103] [I] http server Running on :8880
+2015/07/17 12:01:13 [app.go:103] [I] http server Running on :8880
+2015/07/17 12:01:20 [router.go:845] [D] | GET        | /v1/user/apns                            | 108.662µs        | match      | /v1/user/apns                            | 
+2015/07/17 12:02:27 [app.go:103] [I] http server Running on :8880
+2015/07/17 12:02:53 [router.go:845] [D] | GET        | /v1/user/apns                            | 21.966071074s    | match      | /v1/user/apns                            | 
+2015/07/17 12:04:53 [router.go:845] [D] | GET        | /v1/user/login                           | 125.991µs        | match      | /v1/user/login                           | 
+2015/07/17 12:10:11 [router.go:845] [D] | GET        | /v1/user/login                           | 55.489µs         | match      | /v1/user/login                           | 
+2015/07/17 12:10:20 [router.go:845] [D] | GET        | /v1/user/login                           | 77.132µs         | match      | /v1/user/login                           | 
+2015/07/17 12:52:31 [router.go:845] [D] | GET        | /v1/user/apns                            | 15.056766125s    | match      | /v1/user/apns                            | 
+2015/07/17 12:54:23 [router.go:845] [D] | GET        | /v1/user/apns                            | 18.369010223s    | match      | /v1/user/apns                            | 
+2015/07/17 12:58:56 [router.go:845] [D] | GET        | /v1/user/apns                            | 16.283156525s    | match      | /v1/user/apns                            | 
+2015/07/17 13:03:06 [router.go:845] [D] | GET        | /v1/user/apns                            | 18.658543916s    | match      | /v1/user/apns                            | 
+2015/07/17 13:03:57 [router.go:845] [D] | GET        | /v1/user/apns                            | 14.088094399s    | match      | /v1/user/apns                            | 
+2015/07/17 13:06:35 [router.go:845] [D] | GET        | /v1/user/apns                            | 19.968887668s    | match      | /v1/user/apns                            | 
+2015/07/17 13:08:47 [router.go:845] [D] | GET        | /v1/user/apns                            | 14.411911853s    | match      | /v1/user/apns                            | 
+2015/07/17 13:09:31 [router.go:845] [D] | GET        | /v1/user/apns                            | 15.655062644s    | match      | /v1/user/apns                            | 
+2015/07/17 13:09:51 [router.go:845] [D] | GET        | /v1/user/apns                            | 13.882422924s    | match      | /v1/user/apns                            | 
+2015/07/17 15:23:29 [router.go:845] [D] | GET        | /v1/user/apns                            | 15.278517082s    | match      | /v1/user/apns                            | 
+2015/07/17 15:44:41 [router.go:845] [D] | GET        | /v1/user/apns                            | 31.613143499s    | match      | /v1/user/apns                            | 
+2015/07/17 16:12:50 [router.go:845] [D] | GET        | /v1/user/apns                            | 15.515570616s    | match      | /v1/user/apns                            | 
+2015/07/17 16:16:46 [router.go:845] [D] | GET        | /v1/user/apns                            | 19.889464733s    | match      | /v1/user/apns                            | 
+2015/07/17 16:20:47 [router.go:845] [D] | GET        | /v1/user/apns                            | 13.491376141s    | match      | /v1/user/apns                            | 
+2015/07/17 16:22:15 [router.go:845] [D] | GET        | /v1/user/apns                            | 16.928077333s    | match      | /v1/user/apns                            | 
+2015/07/17 16:27:47 [router.go:845] [D] | GET        | /v1/user/apns                            | 12.802382499s    | match      | /v1/user/apns                            | 
+2015/07/17 16:43:12 [router.go:845] [D] | GET        | /v1/user/apns                            | 15.771883995s    | match      | /v1/user/apns                            | 
+2015/07/17 16:50:30 [router.go:845] [D] | GET        | /v1/user/apns                            | 17.846212411s    | match      | /v1/user/apns                            | 
+2015/07/17 16:51:36 [router.go:845] [D] | GET        | /v1/user/apns                            | 12.220132842s    | match      | /v1/user/apns                            | 
+2015/07/17 16:54:18 [router.go:845] [D] | GET        | /v1/user/apns                            | 18.437008773s    | match      | /v1/user/apns                            | 
+2015/07/17 17:11:30 [router.go:845] [D] | GET        | /v1/user/apns                            | 11.965963699s    | match      | /v1/user/apns                            | 
+2015/07/17 17:24:09 [router.go:845] [D] | GET        | /v1/user/apns                            | 16.828341767s    | match      | /v1/user/apns                            | 
+2015/07/17 17:24:24 [router.go:845] [D] | GET        | /v1/user/apns                            | 14.630459091s    | match      | /v1/user/apns                            | 
+2015/07/17 18:05:04 [app.go:103] [I] http server Running on :8880
+2015/07/20 11:59:57 [app.go:103] [I] http server Running on :8880
+2015/07/20 12:00:46 [router.go:845] [D] | GET        | /v1/user/apns                            | 22.908227439s    | match      | /v1/user/apns                            | 
+2015/07/20 12:03:29 [router.go:845] [D] | GET        | /v1/user/apns                            | 16.064014412s    | match      | /v1/user/apns                            | 
+2015/07/20 12:06:19 [router.go:845] [D] | GET        | /v1/user/apns                            | 15.447296873s    | match      | /v1/user/apns                            | 
+2015/07/20 12:07:16 [router.go:845] [D] | GET        | /v1/user/apns                            | 20.126394931s    | match      | /v1/user/apns                            | 
+2015/07/20 12:14:02 [router.go:845] [D] | GET        | /v1/user/apns                            | 18.826001253s    | match      | /v1/user/apns                            | 
+2015/07/20 12:34:22 [router.go:845] [D] | GET        | /v1/user/apns                            | 12.092720806s    | match      | /v1/user/apns                            | 
+2015/07/20 12:38:49 [router.go:845] [D] | GET        | /v1/user/apns                            | 12.964371769s    | match      | /v1/user/apns                            | 
+2015/07/20 12:40:09 [router.go:845] [D] | GET        | /v1/user/apns                            | 14.492105834s    | match      | /v1/user/apns                            | 
+2015/07/20 12:41:09 [router.go:845] [D] | GET        | /v1/user/apns                            | 19.533734358s    | match      | /v1/user/apns                            | 
+2015/07/20 12:42:52 [router.go:845] [D] | GET        | /v1/user/apns                            | 16.797404161s    | match      | /v1/user/apns                            | 
+2015/07/20 14:48:51 [router.go:845] [D] | GET        | /v1/user/apns                            | 16.045973297s    | match      | /v1/user/apns                            | 
+2015/07/20 14:54:44 [router.go:845] [D] | GET        | /v1/user/apns                            | 14.729432481s    | match      | /v1/user/apns                            | 
+2015/07/20 14:56:38 [router.go:845] [D] | GET        | /v1/user/apns                            | 14.115288868s    | match      | /v1/user/apns                            | 
+2015/07/20 14:57:51 [router.go:845] [D] | GET        | /v1/user/apns                            | 12.47488509s     | match      | /v1/user/apns                            | 
+2015/07/20 14:58:54 [router.go:845] [D] | GET        | /v1/user/apns                            | 11.98657913s     | match      | /v1/user/apns                            | 
+2015/07/20 14:58:55 [router.go:845] [D] | GET        | /v1/user/apns                            | 13.798990585s    | match      | /v1/user/apns                            | 
+2015/07/20 15:00:22 [router.go:845] [D] | GET        | /v1/user/apns                            | 11.965760625s    | match      | /v1/user/apns                            | 
+2015/07/20 15:01:34 [router.go:845] [D] | GET        | /v1/user/apns                            | 12.582720833s    | match      | /v1/user/apns                            | 
+2015/07/20 15:12:17 [router.go:845] [D] | GET        | /v1/user/apns                            | 14.526460907s    | match      | /v1/user/apns                            | 
+2015/07/20 15:13:19 [router.go:845] [D] | GET        | /v1/user/apns                            | 25.203383925s    | match      | /v1/user/apns                            | 
+2015/07/20 15:16:59 [router.go:845] [D] | GET        | /v1/user/apns                            | 14.322520286s    | match      | /v1/user/apns                            | 
+2015/07/20 15:32:50 [router.go:845] [D] | GET        | /v1/user/apns                            | 17.185029726s    | match      | /v1/user/apns                            | 
+2015/07/20 15:33:10 [router.go:845] [D] | GET        | /v1/user/apns                            | 15.031435206s    | match      | /v1/user/apns                            | 
+2015/07/20 15:33:22 [router.go:845] [D] | GET        | /v1/user/apns                            | 16.670847911s    | match      | /v1/user/apns                            | 
+2015/07/20 15:33:35 [router.go:845] [D] | GET        | /v1/user/apns                            | 15.817796781s    | match      | /v1/user/apns                            | 
+2015/07/20 15:34:14 [router.go:845] [D] | GET        | /v1/user/apns                            | 18.604133578s    | match      | /v1/user/apns                            | 
+2015/07/20 15:34:49 [router.go:845] [D] | GET        | /v1/user/apns                            | 13.613538158s    | match      | /v1/user/apns                            | 
+2015/07/20 18:14:55 [app.go:103] [I] http server Running on :8880
+2015/07/20 18:14:57 [app.go:103] [I] http server Running on :8880
+2015/07/22 11:14:09 [app.go:103] [I] http server Running on :8880
+2015/07/22 11:33:15 [router.go:845] [D] | GET        | /v1/user/apns                            | 34.29µs          | match      | /v1/user/apns                            | 
+2015/07/22 11:35:32 [app.go:103] [I] http server Running on :8880
+2015/07/22 11:35:37 [router.go:845] [D] | GET        | /v1/user/apns                            | 39.21µs          | match      | /v1/user/apns                            | 
+2015/07/22 11:35:37 [APNS.go:41] [E] get data is null 
+2015/07/22 11:36:28 [app.go:103] [I] http server Running on :8880
+2015/07/22 11:37:37 [router.go:845] [D] | GET        | /v1/user/apns                            | 46.16µs          | match      | /v1/user/apns                            | 
+2015/07/22 11:38:35 [router.go:845] [D] | GET        | /v1/user/apns                            | 21.932µs         | match      | /v1/user/apns                            | 
+2015/07/22 11:39:13 [router.go:845] [D] | GET        | /v1/user/apns                            | 18.88µs          | match      | /v1/user/apns                            | 
+2015/07/22 11:43:05 [router.go:845] [D] | GET        | /v1/user/apns                            | 22.851µs         | match      | /v1/user/apns                            | 
+2015/07/22 11:45:31 [router.go:845] [D] | GET        | /v1/user/apns                            | 19.489µs         | match      | /v1/user/apns                            | 
+2015/07/22 11:46:15 [app.go:103] [I] http server Running on :8880
+2015/07/22 11:46:18 [router.go:845] [D] | GET        | /v1/user/apns                            | 47.205µs         | match      | /v1/user/apns                            | 
+2015/07/22 11:47:15 [router.go:845] [D] | GET        | /v1/user/apns                            | 16.813µs         | match      | /v1/user/apns                            | 
+2015/07/22 11:48:26 [router.go:845] [D] | GET        | /v1/user/apns                            | 26.205µs         | match      | /v1/user/apns                            | 
+2015/07/22 11:59:10 [router.go:845] [D] | GET        | /v1/user/apns                            | 22.487µs         | match      | /v1/user/apns                            | 
+2015/07/22 11:59:40 [router.go:845] [D] | GET        | /v1/user/apns                            | 40.257µs         | match      | /v1/user/apns                            | 
+2015/07/22 12:01:43 [app.go:103] [I] http server Running on :8880
+2015/07/22 12:01:49 [router.go:845] [D] | GET        | /v1/user/apns                            | 33.673µs         | match      | /v1/user/apns                            | 
+2015/07/22 12:02:18 [router.go:845] [D] | GET        | /v1/user/apns                            | 19.862µs         | match      | /v1/user/apns                            | 
+2015/07/22 12:02:41 [app.go:103] [I] http server Running on :8880
+2015/07/22 12:02:46 [router.go:845] [D] | GET        | /v1/user/apns                            | 40.818µs         | match      | /v1/user/apns                            | 
+2015/07/22 12:05:33 [router.go:845] [D] | GET        | /v1/user/apns                            | 21.075µs         | match      | /v1/user/apns                            | 
+2015/07/22 12:05:46 [router.go:845] [D] | GET        | /v1/user/apns                            | 19.736µs         | match      | /v1/user/apns                            | 
+2015/07/22 12:49:31 [app.go:103] [I] http server Running on :8880
+2015/07/22 12:49:31 [asm_amd64.s:2232] [C] ListenAndServe: %!(EXTRA *net.OpError=listen tcp :8880: bind: address already in use)
+2015/07/22 12:50:09 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:00:42 [base.go:31] [E] dial tcp 127.0.0.1:6379: connection refused 
+2015/07/22 13:00:42 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 323.135µs        | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:01:05 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 1.817647ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:02:12 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 6.795635ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:02:32 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 299.158µs        | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:02:49 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 2.031003ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:03:07 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 511.005µs        | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:03:14 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 2.639535ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:03:44 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 294.101µs        | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:03:56 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 3.180701ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:05:30 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 2.619249ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:05:32 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 1.936893ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:05:33 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 2.827331ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 13:14:34 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:24:19 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:24:19 [asm_amd64.s:2232] [C] ListenAndServe: %!(EXTRA *net.OpError=listen tcp :8880: bind: address already in use)
+2015/07/22 13:24:20 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:29:43 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:29:58 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:30:05 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:30:16 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:30:24 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:34:58 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:35:31 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:42:44 [app.go:103] [I] http server Running on :8880
+2015/07/22 13:46:42 [app.go:103] [I] http server Running on :8880
+2015/07/22 14:21:51 [app.go:103] [I] http server Running on :8880
+2015/07/22 14:33:55 [app.go:103] [I] http server Running on :8880
+2015/07/22 14:34:24 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.497029ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 14:34:45 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 340.981µs        | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 14:34:54 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 9.429524ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 14:34:59 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.506517ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 14:37:38 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.425397ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 14:37:40 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.994699ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 14:37:43 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.876428ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 14:37:46 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.311581ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 14:40:11 [app.go:103] [I] http server Running on :8880
+2015/07/22 14:40:16 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 5.127743ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 14:40:36 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 4.631744ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 14:42:11 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 3.730741ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 14:59:37 [app.go:103] [I] http server Running on :8880
+2015/07/22 15:01:32 [app.go:103] [I] http server Running on :8880
+2015/07/22 15:01:43 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 4.826167ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:01:48 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.257276ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:02:56 [app.go:103] [I] http server Running on :8880
+2015/07/22 15:07:06 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.470055ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:07:08 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.185301ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:07:11 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.306282ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:08:13 [app.go:103] [I] http server Running on :8880
+2015/07/22 15:08:17 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.500864ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:08:39 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 850.629µs        | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:08:53 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 3.645417ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:08:57 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.05528ms        | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:08:59 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.215024ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:09:02 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.264283ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:09:29 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.031178ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:09:31 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.158405ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:09:32 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.042602ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:10:08 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.709361ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 15:10:16 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.688677ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 15:10:20 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.623184ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 15:10:22 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.597835ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 15:10:26 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 998.682µs        | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:10:29 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.146486ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:11:14 [app.go:103] [I] http server Running on :8880
+2015/07/22 15:11:15 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.416176ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:12:06 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.684064ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 15:12:21 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 2.22618ms        | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:13:35 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.49511ms        | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 15:14:30 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.771616ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 15:14:34 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.72868ms        | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 15:14:36 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.840946ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 15:16:39 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.701155ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 15:17:50 [router.go:845] [D] | GET        | /v1/user/get_remind_msg_list             | 1.627758ms       | match      | /v1/user/get_remind_msg_list             | 
+2015/07/22 15:17:54 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 1.210384ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:20:56 [app.go:103] [I] http server Running on :8880
+2015/07/22 15:20:59 [router.go:845] [D] | GET        | /v1/user/get_sys_msg_list                | 2.561103ms       | match      | /v1/user/get_sys_msg_list                | 
+2015/07/22 15:40:14 [app.go:103] [I] http server Running on :8880
+2015/07/22 16:03:10 [app.go:103] [I] http server Running on :8880
+2015/07/22 16:10:21 [app.go:103] [I] http server Running on :8880
+2015/07/22 16:10:28 [app.go:103] [I] http server Running on :8880
+2015/07/22 16:11:15 [app.go:103] [I] http server Running on :8880
+2015/07/22 16:13:13 [router.go:845] [D] | POST       | /v1/user/get_nickname                    | 532.826µs        | match      | /v1/user/get_nickname                    | 
+2015/07/22 16:13:27 [router.go:845] [D] | POST       | /v1/user/get_nickname                    | 1.189765ms       | match      | /v1/user/get_nickname                    | 
+2015/07/22 16:19:27 [app.go:103] [I] http server Running on :8880
+2015/07/22 16:19:31 [router.go:845] [D] | POST       | /v1/user/get_nickname                    | 1.138895ms       | match      | /v1/user/get_nickname                    | 
+2015/07/22 18:58:55 [app.go:103] [I] http server Running on :8880
+2015/07/22 18:59:10 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 5.91649ms        | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:01:09 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 325.629µs        | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:01:24 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 2.731119ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:02:05 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 2.51215ms        | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:02:06 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 5.314792ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:02:07 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 2.008798ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:02:38 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 480.957µs        | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:04:18 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 325.588µs        | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:04:25 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 653.11µs         | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:04:41 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 7.957072ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:07:46 [app.go:103] [I] http server Running on :8880
+2015/07/22 19:08:07 [router.go:845] [D] | GET        | /v1/user/add_pushid                      | 611.908µs        | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:13:06 [app.go:103] [I] http server Running on :8880
+2015/07/22 19:13:11 [router.go:845] [D] | GET        | /v1/user/add_pushid                      | 582.335µs        | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:15:07 [app.go:103] [I] http server Running on :8880
+2015/07/22 19:15:08 [router.go:845] [D] | GET        | /v1/user/add_pushid                      | 709.68µs         | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:15:45 [app.go:103] [I] http server Running on :8880
+2015/07/22 19:15:49 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 1.613388ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:15:55 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 703.967µs        | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:16:09 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 2.124281ms       | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:16:15 [router.go:845] [D] | GET        | /v1/user/add_pushid                      | 323.066µs        | match      | /v1/user/add_pushid                      | 
+2015/07/22 19:22:32 [app.go:103] [I] http server Running on :8880
+2015/07/22 19:27:07 [app.go:103] [I] http server Running on :8880
+2015/07/22 19:38:14 [app.go:103] [I] http server Running on :8880
+2015/07/23 12:22:54 [app.go:103] [I] http server Running on :8880
+2015/07/23 12:24:56 [router.go:845] [D] | GET        | /v1/user/apns                            | 38.763µs         | match      | /v1/user/apns                            | 
+2015/07/23 12:27:30 [app.go:103] [I] http server Running on :8880
+2015/07/23 12:27:49 [router.go:845] [D] | GET        | /v1/user/apns                            | 56.566µs         | match      | /v1/user/apns                            | 
+2015/07/23 12:28:37 [router.go:845] [D] | GET        | /v1/user/apns                            | 24.935µs         | match      | /v1/user/apns                            | 
+2015/07/23 12:28:51 [router.go:845] [D] | GET        | /v1/user/apns                            | 28.626µs         | match      | /v1/user/apns                            | 
+2015/07/23 12:29:46 [router.go:845] [D] | GET        | /v1/user/apns                            | 34.57µs          | match      | /v1/user/apns                            | 
+2015/07/23 12:31:07 [router.go:845] [D] | GET        | /v1/user/apns                            | 32.986µs         | match      | /v1/user/apns                            | 
+2015/07/23 12:32:13 [app.go:103] [I] http server Running on :8880
+2015/07/23 12:32:16 [router.go:845] [D] | GET        | /v1/user/apns                            | 58.015µs         | match      | /v1/user/apns                            | 
+2015/07/23 12:32:27 [app.go:103] [I] http server Running on :8880
+2015/07/23 12:32:31 [router.go:845] [D] | GET        | /v1/user/apns                            | 51.582µs         | match      | /v1/user/apns                            | 
+2015/07/23 12:34:17 [router.go:845] [D] | GET        | /v1/user/apns                            | 34.297µs         | match      | /v1/user/apns                            | 
+2015/07/23 12:34:20 [router.go:845] [D] | GET        | /v1/user/apns                            | 28.996µs         | match      | /v1/user/apns                            | 
+2015/07/23 12:34:41 [router.go:845] [D] | GET        | /v1/user/apns                            | 58.69µs          | match      | /v1/user/apns                            | 
+2015/07/23 13:40:10 [router.go:845] [D] | GET        | /v1/user/apns                            | 33.045µs         | match      | /v1/user/apns                            | 
+2015/07/23 13:46:08 [router.go:845] [D] | GET        | /v1/user/apns                            | 30.826µs         | match      | /v1/user/apns                            | 
+2015/07/23 13:52:00 [router.go:845] [D] | GET        | /v1/user/apns                            | 26.451µs         | match      | /v1/user/apns                            | 
+2015/07/23 13:52:20 [router.go:845] [D] | GET        | /v1/user/apns                            | 30.893µs         | match      | /v1/user/apns                            | 
+2015/07/23 13:52:31 [router.go:845] [D] | GET        | /v1/user/apns                            | 52.427µs         | match      | /v1/user/apns                            | 
+2015/07/23 13:54:16 [router.go:845] [D] | GET        | /v1/user/apns                            | 40.486µs         | match      | /v1/user/apns                            | 
+2015/07/23 13:55:07 [router.go:845] [D] | GET        | /v1/user/apns                            | 44.837µs         | match      | /v1/user/apns                            | 
+2015/07/23 13:55:35 [router.go:845] [D] | GET        | /v1/user/apns                            | 928.938µs        | match      | /v1/user/apns                            | 
+2015/07/23 13:55:50 [router.go:845] [D] | GET        | /v1/user/apns                            | 51.06µs          | match      | /v1/user/apns                            | 
+2015/07/23 14:23:22 [app.go:103] [I] http server Running on :8880
+2015/07/23 14:28:16 [app.go:103] [I] http server Running on :8880
+2015/07/23 14:32:02 [app.go:103] [I] http server Running on :8880
+2015/07/23 14:32:58 [app.go:103] [I] http server Running on :8880
+2015/07/23 15:45:22 [app.go:103] [I] http server Running on :8880
+2015/07/23 15:57:54 [app.go:103] [I] http server Running on :8880
+2015/07/23 15:58:46 [router.go:845] [D] | GET        | /v1/user/rre                             | 25.889µs         | notmatch   | 
+2015/07/23 15:59:13 [router.go:845] [D] | GET        | /v1/user/auth_voice                      | 648.048µs        | match      | /v1/user/auth_voice                      | 
+2015/07/23 15:59:24 [router.go:845] [D] | GET        | /v1/user/auth_voice                      | 258.793µs        | match      | /v1/user/auth_voice                      | 
+2015/07/23 15:59:51 [app.go:103] [I] http server Running on :8880
+2015/07/23 15:59:54 [router.go:845] [D] | GET        | /v1/user/auth_voice                      | 521.063µs        | match      | /v1/user/auth_voice                      | 
+2015/07/23 16:00:08 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:00:10 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:00:11 [router.go:845] [D] | GET        | /v1/user/auth_voice                      | 607.713µs        | match      | /v1/user/auth_voice                      | 
+2015/07/23 16:00:31 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:00:34 [router.go:845] [D] | GET        | /v1/user/auth_voice                      | 613.619µs        | match      | /v1/user/auth_voice                      | 
+2015/07/23 16:00:49 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:03:30 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 560.229µs        | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:03:40 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 283.616µs        | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:04:52 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 739.21µs         | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:05:13 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 303.808µs        | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:06:03 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 912.067µs        | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:06:27 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 655.868µs        | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:07:48 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 258.041µs        | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:08:54 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 286.8µs          | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:09:21 [router.go:845] [D] | POST       | /v1/user/get_nickname                    | 866.378µs        | match      | /v1/user/get_nickname                    | 
+2015/07/23 16:09:46 [router.go:845] [D] | POST       | /v1/user/get_nickname                    | 633.092µs        | match      | /v1/user/get_nickname                    | 
+2015/07/23 16:10:02 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 269.764µs        | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:10:19 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 721.937µs        | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:12:08 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 542.957µs        | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:12:36 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 438.557µs        | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:13:10 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:14:07 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:14:24 [add_pushid.go:60] [E] Error 1054: Unknown column 'PushID' in 'field list' 
+2015/07/23 16:14:24 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 3.200213ms       | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:16:21 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:17:34 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:18:14 [router.go:845] [D] | GET        | /v1/user/auth_voice                      | 187.145µs        | match      | /v1/user/auth_voice                      | 
+2015/07/23 16:18:20 [add_pushid.go:64] [E] Error 1054: Unknown column 'PushID' in 'field list' 
+2015/07/23 16:18:20 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 3.46782ms        | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:18:56 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:19:01 [add_pushid.go:64] [E] Error 1054: Unknown column 'PushID' in 'field list' 
+2015/07/23 16:19:01 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 1.097848ms       | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:19:19 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:19:25 [add_pushid.go:64] [E] Error 1054: Unknown column 'PushID' in 'field list' 
+2015/07/23 16:19:25 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 3.583741ms       | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:20:01 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:20:05 [add_pushid.go:64] [E] Error 1054: Unknown column 'PushID' in 'field list' 
+2015/07/23 16:20:05 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 2.034079ms       | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:20:54 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:21:46 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:47:34 [app.go:103] [I] http server Running on :8880
+2015/07/23 16:48:23 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 6.345172ms       | match      | /v1/user/add_pushid                      | 
+2015/07/23 16:51:24 [router.go:845] [D] | GET        | /v1/user/apns                            | 63.581µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:51:49 [router.go:845] [D] | GET        | /v1/user/apns                            | 218.745µs        | match      | /v1/user/apns                            | 
+2015/07/23 16:52:39 [router.go:845] [D] | GET        | /v1/user/apns                            | 41.367µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:53:24 [router.go:845] [D] | GET        | /v1/user/apns                            | 37.556µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:53:54 [router.go:845] [D] | GET        | /v1/user/apns                            | 40.225µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:56:00 [router.go:845] [D] | GET        | /v1/user/apns                            | 77.067µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:56:30 [router.go:845] [D] | GET        | /v1/user/apns                            | 36.828µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:56:34 [router.go:845] [D] | POST       | /v1/user/register                        | 148.861µs        | match      | /v1/user/register                        | 
+2015/07/23 16:58:27 [router.go:845] [D] | GET        | /v1/user/apns                            | 60.502µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:59:16 [router.go:845] [D] | GET        | /v1/user/apns                            | 43.76µs          | match      | /v1/user/apns                            | 
+2015/07/23 16:59:19 [router.go:845] [D] | GET        | /v1/user/apns                            | 41.077µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:59:33 [router.go:845] [D] | GET        | /v1/user/apns                            | 45.543µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:59:36 [router.go:845] [D] | GET        | /v1/user/apns                            | 49.379µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:59:40 [router.go:845] [D] | GET        | /v1/user/apns                            | 88.843µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:59:43 [router.go:845] [D] | GET        | /v1/user/apns                            | 25.163µs         | match      | /v1/user/apns                            | 
+2015/07/23 16:59:53 [router.go:845] [D] | POST       | /v1/user/register                        | 269.775µs        | match      | /v1/user/register                        | 
+2015/07/23 17:00:02 [router.go:845] [D] | GET        | /v1/user/apns                            | 36.222µs         | match      | /v1/user/apns                            | 
+2015/07/23 17:00:09 [router.go:845] [D] | POST       | /v1/user/register                        | 8.499009ms       | match      | /v1/user/register                        | 
+2015/07/23 17:01:02 [router.go:845] [D] | POST       | /v1/user/add_pushid                      | 3.940757ms       | match      | /v1/user/add_pushid                      | 
+2015/07/23 18:36:35 [app.go:103] [I] http server Running on :8880
+2015/07/23 18:40:14 [app.go:103] [I] http server Running on :8880
+2015/07/23 18:50:52 [router.go:845] [D] | GET        | /v1/user/apns                            | 3.924757ms       | match      | /v1/user/apns                            | 
+2015/07/23 18:51:33 [router.go:845] [D] | GET        | /v1/user/apns                            | 37.042µs         | match      | /v1/user/apns                            | 
+2015/07/23 18:52:27 [router.go:845] [D] | GET        | /v1/user/apns                            | 31.756µs         | match      | /v1/user/apns                            | 
+2015/07/23 18:53:36 [router.go:845] [D] | GET        | /v1/user/apns                            | 35.229µs         | match      | /v1/user/apns                            | 
+2015/07/23 18:53:40 [router.go:845] [D] | GET        | /v1/user/apns                            | 38.782µs         | match      | /v1/user/apns                            | 
+2015/07/23 18:54:26 [router.go:845] [D] | GET        | /v1/user/apns                            | 30.745µs         | match      | /v1/user/apns                            | 
+2015/07/23 18:55:01 [router.go:845] [D] | GET        | /v1/user/apns                            | 49.266µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:03:20 [router.go:845] [D] | GET        | /v1/user/apns                            | 37.147µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:03:35 [router.go:845] [D] | GET        | /v1/user/apns                            | 52.179µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:04:48 [router.go:845] [D] | GET        | /v1/user/apns                            | 33.477µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:05:06 [router.go:845] [D] | GET        | /v1/user/apns                            | 34.821µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:06:27 [app.go:103] [I] http server Running on :8880
+2015/07/23 19:06:36 [app.go:103] [I] http server Running on :8880
+2015/07/23 19:07:48 [router.go:845] [D] | GET        | /v1/user/apns                            | 92.63µs          | match      | /v1/user/apns                            | 
+2015/07/23 19:07:58 [router.go:845] [D] | GET        | /v1/user/apns                            | 32.979µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:08:05 [router.go:845] [D] | GET        | /v1/user/apns                            | 29.64µs          | match      | /v1/user/apns                            | 
+2015/07/23 19:08:12 [router.go:845] [D] | GET        | /v1/user/apns                            | 35.993µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:08:19 [router.go:845] [D] | GET        | /v1/user/apns                            | 27.826µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:08:26 [router.go:845] [D] | GET        | /v1/user/apns                            | 26.887µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:08:33 [router.go:845] [D] | GET        | /v1/user/apns                            | 27.99µs          | match      | /v1/user/apns                            | 
+2015/07/23 19:19:10 [router.go:845] [D] | GET        | /v1/user/apns                            | 33.15µs          | match      | /v1/user/apns                            | 
+2015/07/23 19:19:37 [router.go:845] [D] | GET        | /v1/user/apns                            | 68.097µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:19:57 [router.go:845] [D] | GET        | /v1/user/apns                            | 43.501µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:46:23 [router.go:845] [D] | GET        | /v1/user/apns                            | 34.486µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:47:31 [router.go:845] [D] | GET        | /v1/user/apns                            | 37.735µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:47:53 [router.go:845] [D] | GET        | /v1/user/apns                            | 43.999µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:48:51 [router.go:845] [D] | GET        | /v1/user/apns                            | 27.823µs         | match      | /v1/user/apns                            | 
+2015/07/23 19:49:19 [router.go:845] [D] | GET        | /v1/user/apns                            | 38.759µs         | match      | /v1/user/apns                            | 
+2015/07/24 10:13:07 [app.go:103] [I] http server Running on :8880
+2015/07/24 10:23:28 [router.go:845] [D] | GET        | /v1/user/apns                            | 49.687µs         | match      | /v1/user/apns                            | 
+2015/07/24 10:23:29 [router.go:845] [D] | GET        | /v1/user/apns                            | 44.806µs         | match      | /v1/user/apns                            | 
+2015/07/24 10:23:31 [router.go:845] [D] | GET        | /v1/user/apns                            | 48.037µs         | match      | /v1/user/apns                            | 
+2015/07/24 10:33:44 [app.go:103] [I] http server Running on :8880
+2015/07/24 10:46:26 [app.go:103] [I] http server Running on :8880
+2015/07/24 11:51:04 [app.go:103] [I] http server Running on :8880
+2015/07/24 11:51:37 [router.go:845] [D] | POST       | /v1/user/register                        | 294.903µs        | match      | /v1/user/register                        | 
+2015/07/24 11:51:51 [router.go:845] [D] | POST       | /v1/user/register                        | 732.497µs        | match      | /v1/user/register                        | 
+2015/07/24 11:52:21 [router.go:845] [D] | POST       | /v1/user/register                        | 6.877111ms       | match      | /v1/user/register                        | 
+2015/07/24 11:59:49 [router.go:845] [D] | POST       | /v1/user/register                        | 4.432173ms       | match      | /v1/user/register                        | 
+2015/07/24 12:12:56 [router.go:845] [D] | POST       | /v1/user/register                        | 4.994801ms       | match      | /v1/user/register                        | 
+2015/07/24 12:22:59 [router.go:845] [D] | POST       | /v1/user/register                        | 5.130824ms       | match      | /v1/user/register                        | 
+2015/07/24 12:23:36 [reg.go:89] [E] 15900648086 账号已存在 
+2015/07/24 12:23:36 [router.go:845] [D] | POST       | /v1/user/register                        | 804.338µs        | match      | /v1/user/register                        | 
+2015/07/24 12:24:54 [app.go:103] [I] http server Running on :8880
+2015/07/24 12:43:20 [router.go:845] [D] | POST       | /v1/user/register                        | 4.984825ms       | match      | /v1/user/register                        | 
+2015/07/24 12:44:26 [router.go:845] [D] | POST       | /v1/user/register                        | 4.969277ms       | match      | /v1/user/register                        | 
+2015/07/24 12:48:25 [router.go:845] [D] | POST       | /v1/user/register                        | 7.035926ms       | match      | /v1/user/register                        | 
+2015/07/24 12:50:57 [router.go:845] [D] | POST       | /v1/user/register                        | 4.13941ms        | match      | /v1/user/register                        | 
+2015/07/24 12:52:23 [app.go:103] [I] http server Running on :8880
+2015/07/24 12:52:36 [router.go:845] [D] | POST       | /v1/user/register                        | 6.167804ms       | match      | /v1/user/register                        | 
+2015/07/24 12:54:30 [reg.go:89] [E] 15900648086 账号已存在 
+2015/07/24 12:54:30 [router.go:845] [D] | POST       | /v1/user/register                        | 1.209706ms       | match      | /v1/user/register                        | 
+2015/07/24 12:54:55 [reg.go:89] [E] 15900648086 账号已存在 
+2015/07/24 12:54:55 [router.go:845] [D] | POST       | /v1/user/register                        | 1.055628ms       | match      | /v1/user/register                        | 
+2015/07/24 12:55:21 [router.go:845] [D] | POST       | /v1/user/register                        | 4.379731ms       | match      | /v1/user/register                        | 
+2015/07/24 13:00:00 [router.go:845] [D] | POST       | /v1/user/register                        | 4.41856ms        | match      | /v1/user/register                        | 
+2015/07/24 13:00:11 [reg.go:89] [E] 15900648086 账号已存在 
+2015/07/24 13:00:11 [router.go:845] [D] | POST       | /v1/user/register                        | 820.295µs        | match      | /v1/user/register                        | 
+2015/07/24 13:00:24 [router.go:845] [D] | POST       | /v1/user/register                        | 9.630117ms       | match      | /v1/user/register                        | 
+2015/07/24 13:01:49 [router.go:845] [D] | POST       | /v1/user/register                        | 4.304099ms       | match      | /v1/user/register                        | 
+2015/07/24 13:02:53 [router.go:845] [D] | POST       | /v1/user/register                        | 4.7152ms         | match      | /v1/user/register                        | 
+2015/07/24 13:13:13 [router.go:845] [D] | POST       | /v1/user/register                        | 6.057006ms       | match      | /v1/user/register                        | 
+2015/07/24 13:15:26 [app.go:103] [I] http server Running on :8880
+2015/07/24 13:15:48 [router.go:845] [D] | POST       | /v1/user/register                        | 7.970195ms       | match      | /v1/user/register                        | 
+2015/07/24 13:21:29 [router.go:845] [D] | POST       | /v1/user/register                        | 4.170759ms       | match      | /v1/user/register                        | 
+2015/07/24 13:26:20 [app.go:103] [I] http server Running on :8880
+2015/07/24 13:26:31 [app.go:103] [I] http server Running on :8880
+2015/07/24 13:27:28 [app.go:103] [I] http server Running on :8880
+2015/07/24 13:28:30 [app.go:103] [I] http server Running on :8880
+2015/07/24 13:28:55 [router.go:845] [D] | POST       | /v1/user/register                        | 7.040681ms       | match      | /v1/user/register                        | 
+2015/07/24 14:54:51 [router.go:845] [D] | GET        | /v1/user/apns                            | 1.180972ms       | match      | /v1/user/apns                            | 
+2015/08/04 14:37:12 [app.go:103] [I] http server Running on :8880
+2015/08/04 14:58:06 [app.go:103] [I] http server Running on :8880
+2015/08/04 15:16:59 [app.go:103] [I] http server Running on :8880
+2015/08/04 15:19:04 [app.go:103] [I] http server Running on :8880
+2015/08/04 15:23:19 [app.go:103] [I] http server Running on :8880
+2015/09/11 18:43:13 [app.go:103] [I] http server Running on :8880
+2015/09/11 18:57:11 [app.go:103] [I] http server Running on :8880
+2015/09/11 19:01:53 [app.go:103] [I] http server Running on :8880
+2015/09/11 19:03:05 [app.go:103] [I] http server Running on :8880
+2015/09/14 11:06:10 [app.go:103] [I] http server Running on :8880
+2015/09/14 11:11:42 [router.go:845] [D] | POST       | /v1/user/register                        | 31.787658ms      | match      | /v1/user/register                        | 
+2015/09/14 11:12:15 [router.go:845] [D] | POST       | /v1/user/register                        | 93.771385ms      | match      | /v1/user/register                        | 
+2015/09/14 11:13:58 [router.go:845] [D] | POST       | /v1/user/register                        | 361.710982ms     | match      | /v1/user/register                        | 
+2015/09/14 11:13:58 [reg.go:159] [E] dial tcp: missing port in address 127.0.0.1 
+2015/09/14 11:17:44 [app.go:103] [I] http server Running on :8880
+2015/09/14 11:19:56 [reg.go:91] [E] Error 1146: Table 'xy_db_user_6.user_base_1' doesn't exist 
+2015/09/14 11:19:56 [router.go:845] [D] | POST       | /v1/user/register                        | 117.89059ms      | match      | /v1/user/register                        | 
+2015/09/14 11:23:13 [router.go:845] [D] | POST       | /v1/user/register                        | 232.937869ms     | match      | /v1/user/register                        | 
+2015/09/14 11:24:43 [router.go:845] [D] | POST       | /v1/user/login                           | 46.993384ms      | match      | /v1/user/login                           | 
+2015/09/14 11:24:55 [router.go:845] [D] | POST       | /v1/user/login                           | 106.561µs        | match      | /v1/user/login                           | 
+2015/09/14 11:25:09 [router.go:845] [D] | POST       | /v1/user/login                           | 362.301µs        | match      | /v1/user/login                           | 
+2015/09/14 11:25:38 [router.go:845] [D] | POST       | /v1/user/login                           | 68.294006ms      | match      | /v1/user/login                           | 
+2015/09/14 11:33:11 [app.go:103] [I] http server Running on :8880
+2015/09/14 11:35:46 [router.go:845] [D] | POST       | /v1/user/register                        | 2.938562ms       | match      | /v1/user/register                        | 
+2015/09/14 11:35:53 [router.go:845] [D] | POST       | /v1/user/login                           | 2.655909ms       | match      | /v1/user/login                           | 
+2015/09/22 16:33:47 [app.go:103] [I] http server Running on :8880
+2015/09/22 16:33:50 [reg.go:91] [E] 15900648085 账号已存在 
+2015/09/22 16:33:50 [router.go:845] [D] | POST       | /v1/user/register                        | 40.219974ms      | match      | /v1/user/register                        | 

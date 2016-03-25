@@ -1,0 +1,11 @@
+{
+	"max_idle_conn":20,
+	"max_open_conn":1000,
+	"table_hash_num":1,
+	"db_list_master": [	
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_logs?charset=utf8"}
+		],
+	"db_list_salve": [	
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_logs?charset=utf8"}
+		]
+}

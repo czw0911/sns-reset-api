@@ -1,0 +1,7 @@
+{
+	"port" : 7000,
+	"domain" : "http://192.168.83.198:7000",
+	"login_callback_url" : "http://192.168.83.198:8000/login",
+	"qr_redis" : "127.0.0.1:6379",
+	"mysql_admin" : "root:123456@tcp(127.0.0.1:3306)/xy_db_admin?charset=utf8"
+}

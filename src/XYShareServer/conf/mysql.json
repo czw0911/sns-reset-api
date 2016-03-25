@@ -1,0 +1,31 @@
+{
+	"max_idle_conn":20,
+	"max_open_conn":1000,
+	"common_db_list":"root:123456@tcp(127.0.0.1:3306)/xy_db_common?charset=utf8",
+	"activity_table_hash_num":8,
+	"activity_db_list": [	
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_activity_0?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_activity_1?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_activity_2?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_activity_3?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_activity_4?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_activity_5?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_activity_6?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_activity_7?charset=utf8"}
+		],
+	"dynamic_table_hash_num":12,
+	"dynamic_db_list": [	
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_0?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_1?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_2?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_3?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_4?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_5?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_6?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_7?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_8?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_9?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_10?charset=utf8"},
+			{"dns":"root:123456@tcp(127.0.0.1:3306)/xy_db_dynamic_11?charset=utf8"}
+		]
+}
